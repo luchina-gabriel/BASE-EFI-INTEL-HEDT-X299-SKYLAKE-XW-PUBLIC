@@ -1,9 +1,10 @@
 # BASE EFI Intel Skylake-X/W (HEDT)
 
-# How to GET a COPY of BASE EFI / Como obter a CÓPIA da EFI BASE
+## How to GET a COPY of BASE EFI <br> Como obter a CÓPIA da EFI BASE
 
-🇺🇸 - To download EFI BASEs, you must be a member of any category on the YouTube channel and connect your Discord to your YouTube account to access the #efi-base channel;
-🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala #efi-base;
+🇺🇸 - To download EFI BASEs, you must be a member of any category on the YouTube channel and connect your Discord to your YouTube account to access the `#efi-base` channel;
+<br><br>
+🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
 # Basic Info
 
