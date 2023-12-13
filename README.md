@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-X299-SKYLAKE-XW-PUBLIC/assets/23700365/a118ec54-c1c5-48c3-926e-780d8312c909)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-X299-SKYLAKE-XW-PUBLIC/assets/23700365/2058a173-1afb-4393-a125-5e4198f9c286)
+
 # Basic Info
 
 Note|Description
