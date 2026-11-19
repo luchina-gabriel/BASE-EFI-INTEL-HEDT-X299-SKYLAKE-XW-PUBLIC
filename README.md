@@ -25,7 +25,7 @@ Last Supported OS|macOS 26 Tahoe.
 
 - Opencore version: 1.0.8
 - Release date (OC/Kexts): 27/09/2026
-- Last Update Repository: 27/09/2026
+- Last Update Repository: 19/11/2026
 
 # Basic Steps
 
@@ -179,6 +179,19 @@ MacPro7,1|Use this SMBIOS for macOS Tahoe.
 	- You can use USBMap.command Utility - [USBMap](https://github.com/corpnewt/USBMap).
 - **`SetupVirtualMap`** - Note newer Asus BIOS(v3006+) will not boot with this quirk enabled, please **DISABLE**.
 - **`AppleXcpmCfgLock`** - Please `**ENABLE**` if you cannot disable`CFG-Lock` in BIOS.
+
+# Special notes - For NVIDIA GPU
+
+boot-args
+- `nvfb=1 nvaccel=1 nvfbheads=4 -nvkmsnosmooth amfi_get_out_of_my_way=0x1 amfi=0x80 ipc_control_port_options=0 -amfipassbeta`
+
+csr-active-config
+- `03080000`
+- `430A0000`
+
+Other adjustments
+- Kernel > Block > "Allow NullMoth Nvidia Driver" > Enabled
+- WhateverGreen removed or disabled
 
 ### GPU-Specific `boot-args`
 Parameter|Description
